@@ -1,0 +1,11 @@
+{
+  "labelName": "Name",
+  "labelEmail": "Email",
+  "labelPassword": "Password",
+  "authButtonTitle1": "Create Account",
+  "authButtonTitle2": "Let's Get Started",
+  "registerTitle": "Register",
+  "oneLastStep": "One Last Step!",
+  "clickToLink": "Please click the activation link we sent to your email"
+
+}
